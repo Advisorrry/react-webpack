@@ -4,7 +4,7 @@
   "description": "React Webpack Babel Starter Kit",
   "main": "''",
   "engines": {
-    "node": "14.16.1"
+    "node": "14.17.0"
   },
   "scripts": {
     "clean": "shx rm -rf build",
